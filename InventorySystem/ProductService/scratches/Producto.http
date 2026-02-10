@@ -1,0 +1,55 @@
+﻿@host = http://localhost:5299
+@contentType = application/json
+
+### 1. Obtener todos los productos
+GET {{host}}/api/Product
+Accept: application/json
+
+###
+
+POST {{host}}/api/Product
+Content-Type: {{contentType}}
+
+{
+  "nombre": "Laptop Gamer Legion",
+  "descripcion": "Intel i9, RTX 4070, 32GB RAM",
+  "categoria": "Computadoras",
+  "imagen": "https://example.com/laptop.jpg",
+  "precio": 1599.99,
+  "stock": 10
+}
+
+###
+
+GET {{host}}/api/Product/1
+Accept: application/json
+
+###
+
+PUT {{host}}/api/Product/1
+Content-Type: {{contentType}}
+
+{
+  "nombre": "Laptop Gamer Legion Pro",
+  "descripcion": "Intel i9, RTX 4080, 64GB RAM (Actualizado)",
+  "categoria": "Computadoras",
+  "imagen": "https://example.com/laptop_v2.jpg",
+  "precio": 1899.00,
+  "stock": 5
+}
+
+###
+
+DELETE {{host}}/api/Product/3
+
+###
+
+POST {{host}}/api/Product
+Content-Type: {{contentType}}
+
+{
+  "nombre": "",
+  "categoria": "Test",
+  "precio": -100,
+  "stock": -5
+}

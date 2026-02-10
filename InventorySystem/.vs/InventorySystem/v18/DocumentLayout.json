@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rider c\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\scratches\\producto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\scratches\\producto.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\data\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\data\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService\\Program.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\Program.cs",
+              "RelativeToolTip": "ProductService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:23:19.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductService\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:23:08.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.http",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\scratches\\Producto.http",
+              "RelativeDocumentMoniker": "ProductService\\scratches\\Producto.http",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\scratches\\Producto.http",
+              "RelativeToolTip": "ProductService\\scratches\\Producto.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-22T16:22:54.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "ProductService\\Models\\Producto.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\Models\\Producto.cs",
+              "RelativeToolTip": "ProductService\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:22:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\DTOs\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "ProductService\\DTOs\\ProductoDto.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\DTOs\\ProductoDto.cs",
+              "RelativeToolTip": "ProductService\\DTOs\\ProductoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:22:34.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\Data\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService\\Data\\ProductService.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\Data\\ProductService.cs",
+              "RelativeToolTip": "ProductService\\Data\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:22:30.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:22:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.http",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\ProductService.http",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.http",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\ProductService.http",
+              "RelativeToolTip": "ProductService\\ProductService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-22T03:37:00.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "ProductService\ProductService.csproj", "{B8DECE87-27B7-44B8-B931-7AAA608B3725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionService", "TransactionService\TransactionService.csproj", "{31E77CD2-391A-4475-B32D-C31A5CEDD24C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DECE87-27B7-44B8-B931-7AAA608B3725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DECE87-27B7-44B8-B931-7AAA608B3725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DECE87-27B7-44B8-B931-7AAA608B3725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DECE87-27B7-44B8-B931-7AAA608B3725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E77CD2-391A-4475-B32D-C31A5CEDD24C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E77CD2-391A-4475-B32D-C31A5CEDD24C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E77CD2-391A-4475-B32D-C31A5CEDD24C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E77CD2-391A-4475-B32D-C31A5CEDD24C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

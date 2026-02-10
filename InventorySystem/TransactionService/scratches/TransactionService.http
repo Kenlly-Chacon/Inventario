@@ -1,0 +1,41 @@
+﻿@host = http://localhost:5160
+@contentType = application/json
+
+### 
+GET {{host}}/api/Transaction
+Accept: application/json
+
+###
+
+POST {{host}}/api/Transaction
+Content-Type: {{contentType}}
+
+{
+  "productoId": 1,
+  "tipoTransaccion": "COMPRA",
+  "cantidad": 50,
+  "precioUnitario": 10.50,
+  "detalle": "Reposición de inventario mensual"
+}
+
+###
+
+POST {{host}}/api/Transaction
+Content-Type: {{contentType}}
+
+{
+  "productoId": 1,
+  "tipoTransaccion": "VENTA",
+  "cantidad": 2,
+  "precioUnitario": 15.00,
+  "detalle": "Cliente mostrador"
+}
+
+###
+
+GET {{host}}/api/Transaction/producto/1
+Accept: application/json
+
+###
+
+DELETE {{host}}/api/Transaction/6

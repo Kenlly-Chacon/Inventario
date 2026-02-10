@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\rider c\\InventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|d:\\rider c\\inventorysystem\\productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8DECE87-27B7-44B8-B931-7AAA608B3725}|ProductService\\ProductService.csproj|solutionrelative:productservice\\productservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.http",
+              "DocumentMoniker": "D:\\rider c\\InventorySystem\\ProductService\\ProductService.http",
+              "RelativeDocumentMoniker": "ProductService\\ProductService.http",
+              "ToolTip": "D:\\rider c\\InventorySystem\\ProductService\\ProductService.http",
+              "RelativeToolTip": "ProductService\\ProductService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-22T03:37:00.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
